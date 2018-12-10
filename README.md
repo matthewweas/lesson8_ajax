@@ -13,8 +13,7 @@ Matthew Weas
 This lesson uses an API, Ajax, and JSON-formatted Data to build an application
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://matthewweas.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
